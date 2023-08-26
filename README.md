@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mrabhishek-gh
-- 👀 I’m interested in Web Dev.
-- 🌱 I’m currently learning VLSI and Embedded System.
-- 💞️ I’m looking to collaborate on Website projects.
+- 👀 I’m interested in Web Dev and Data Analytics.
+- 🌱 I’m currently learning Electonics hardware integration and Embedded Systems.
+- 💞️ I’m looking to collaborate on Web development and hardware projects.
 
 
 <!---
